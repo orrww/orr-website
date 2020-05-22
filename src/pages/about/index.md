@@ -1,19 +1,48 @@
 ---
 templateKey: 'about-page'
 path: /about
-title: About our values
+title: About ORR
 ---
-### Shade-grown coffee
-Coffee is a small tree or shrub that grows in the forest understory in its wild form, and traditionally was grown commercially under other trees that provided shade. The forest-like structure of shade coffee farms provides habitat for a great number of migratory and resident species.
+### Mission
+The Ottawa River Runners Whitewater Club Inc.(ORR) is an organization dedicated to whitewater paddling. We provide an introduction to the sport and ongoing development, with a range of opportunities for paddlers of all ages and abilities to pursue and achieve their personal paddling goals in a safe, supportive, respectful, and responsible environment.
 
-### Single origin
-Single-origin coffee is coffee grown within a single known geographic origin. Sometimes, this is a single farm or a specific collection of beans from a single country. The name of the coffee is then usually the place it was grown to whatever degree available.
+### Vision
+The Ottawa River Runners will be an exemplary whitewater paddling club with a visibility, place and voice for its broad based membership of both recreational and competitive paddlers.
 
-### Sustainable farming
-Sustainable agriculture is farming in sustainable ways based on an understanding of ecosystem services, the study of relationships between organisms and their environment. What grows where and how it is grown are a matter of choice and careful consideration for nature and communities.
+### Beliefs
+As members of the Ottawa River Runners, we believe:
+* in creating an inclusive paddling environment accessible to all that is healthy, safe and fun
+* that each member of ORR has a responsibility to maintain operations and activities in an ecologically sound manner
+* in promoting leadership and the social value of volunteerism and collaboration
+* in the importance of an advocacy role within our community
+* that each member has a personal responsibility to demonstrate ethics, respect, sportsmanship, and teamwork that extends into the community
+* in encouraging both recreational challenge and competitive excellence
+* in promoting physical literacy and excellence in training in an environment that encourages life-long physical activity
+* that young paddlers must make a commitment to doing their best in both academic and athletic fields.
 
-### Direct sourcing
-Direct trade is a form of sourcing practiced by some coffee roasters. Advocates of direct trade practices promote direct communication and price negotiation between buyer and farmer, along with systems that encourage and incentivize quality.
+### Board of Directors of The Ottawa River Runners Whitewater Club Inc.
 
-### Reinvest profits
-We want to truly empower the communities that bring amazing coffee to you. That’s why we reinvest 20% of our profits into farms, local businesses and schools everywhere our coffee is grown. You can see the communities grow and learn more about coffee farming on our blog.
+President: Doug Corkery
+
+Other Directors:
+* Roger Colbeck
+* Jim Risk
+* Alison Smedley
+* Richard van Geilswyk
+* Jonathan Westeinde
+
+### Grants & Funding
+
+The Ottawa River Runners is a not-for-profit organization, and is proud to have received some grants over the years, in order to help maintain the facility, and to build and to improve the programs offered to youth and adults.
+
+__The Ontarion Trillium Foundation__
+Thanks go to the OTF for the following support in 2007.  An acknowledgement plaque is fixed to one of the new wire stringing poles at our revitalized Pumphouse training facility.
+ 
+A grant of $14,400 over one year was given to purchase equipment and make renovations to the training course. The initiative will help to increase membership and participation in the sport of whitewater paddling, enhance training and improve competitive events.
+
+www.trilliumfoundation.org/cms/en/index.aspx
+
+__Making Dreams Possible Club Coaching Grants (September 2008)__
+The GM Making Dreams Possible Club Coaching Grant is a GM funded initiative coordinated through the Coaching Association of Canada (CAC) which aims to enhance the experience of Canadian athletes through quality coaching by offering grants to local sport clubs for coach training and development.
+
+Thanks to GM for a $2000 grant which was used by ORR for a level one Whitewater Ontario coaching and instruction program held on the last weekend of September Friday evening the 26th, Saturday the 27th and Sunday the 28th with 12 participants.  Thanks also to Carole Westwood for teaching.  It is important that we develop young coaches to help grow the club.
