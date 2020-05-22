@@ -1,5 +1,5 @@
 ---
-templateKey: 'the-pumphouse-page'
+templateKey: 'product-page'
 path: /the-pumphouse
 title: The Pumphouse
 image: /img/jumbotron.jpg

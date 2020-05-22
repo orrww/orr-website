@@ -1,5 +1,5 @@
 ---
-templateKey: 'membership-page'
+templateKey: 'product-page'
 path: /membership
 title: Membership
 image: /img/jumbotron.jpg
